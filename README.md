@@ -11,7 +11,7 @@
 
 - 🔭 **I joined the NEVTIK organization at SMKN 1 Cibinong as a member and teacher in the field of Cybersecurity.**
 
-- 🌱 **I’m currently learning: I'm currently learning: CTF(Web Exploitation, Forensic, Cryptography, Reverse Engineering, Binary Exploitation, Osint, Mobile, Blockchain, Pyjail) & Hardening**
+- 🌱 **I'm currently learning: CTF(Web Exploitation, Forensic, Cryptography, Reverse Engineering, Binary Exploitation, Osint, Mobile, Blockchain, Pyjail) & Hardening**
 
 - 💬 **Ask me about: Cyber Security & CTF**
 
